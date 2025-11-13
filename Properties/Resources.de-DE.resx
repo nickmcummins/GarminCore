@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -112,289 +112,289 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="P0x0100" xml:space="preserve">
-    <value>Megacity (over 10 million inhabitants)</value>
+    <value>Megapole (über 10 Mio. Einwohner)</value>
   </data>
   <data name="P0x0200" xml:space="preserve">
-    <value>Megacity (5 to 10 million inhabitants)</value>
+    <value>Megapole (5 bis 10 Mio. Einwohner)</value>
   </data>
   <data name="P0x0300" xml:space="preserve">
-    <value>Metropolis (2 to 5 million inhabitants)</value>
+    <value>Metropole (2 bis 5 Mio. Einwohner)</value>
   </data>
   <data name="P0x0400" xml:space="preserve">
-    <value>Metropolis (1 to 2 million inhabitants)</value>
+    <value>Metropole (1 bis 2 Mio. Einwohner)</value>
   </data>
   <data name="P0x0500" xml:space="preserve">
-    <value>Large city (0.5 to 1 million inhabitants)</value>
+    <value>Großstadt (0.5 bis 1 Mio. Einwohner)</value>
   </data>
   <data name="P0x0600" xml:space="preserve">
-    <value>Large city (200,000 to 500,000 inhabitants)</value>
+    <value>Großstadt (200000  bis 500000 Einwohner)</value>
   </data>
   <data name="P0x0700" xml:space="preserve">
-    <value>Large city (100,000 to 200,000 inhabitants)</value>
+    <value>Großstadt (100000 bis 200000Einwohner)</value>
   </data>
   <data name="P0x0800" xml:space="preserve">
-    <value>City (50,000 to 100,000 inhabitants)</value>
+    <value>Stadt (50000 bis 100000 Einwohner)</value>
   </data>
   <data name="P0x0900" xml:space="preserve">
-    <value>City (20,000 to 50,000 inhabitants)</value>
+    <value>Stadt (20000 bis 50000 Einwohner)</value>
   </data>
   <data name="P0x0a00" xml:space="preserve">
-    <value>Small town (10,000 to 200,000 inhabitants)</value>
+    <value>Kleinstadt (10000 bis 200000 Einwohner)</value>
   </data>
   <data name="P0x0b00" xml:space="preserve">
-    <value>Small town (5,000 to 10,000 inhabitants)</value>
+    <value>Kleinstadt (5000 bis 10000 Einwohner)</value>
   </data>
   <data name="P0x0c00" xml:space="preserve">
-    <value>Town (2,000 to 5,000 inhabitants)</value>
+    <value>Ort (2000 bis 5000 Einwohner)</value>
   </data>
   <data name="P0x0d00" xml:space="preserve">
-    <value>Town (1,000 to 2,000 inhabitants)</value>
+    <value>Ort (1000 bis 2000 Einwohner)</value>
   </data>
   <data name="P0x0e00" xml:space="preserve">
-    <value>Village (500 to 1,000 inhabitants)</value>
+    <value>Dorf (500 bis 1000 Einwohner)</value>
   </data>
   <data name="P0x0f00" xml:space="preserve">
-    <value>Village (200 to 500 inhabitants)</value>
+    <value>Dorf (200 bis 500 Einwohner)</value>
   </data>
   <data name="P0x1000" xml:space="preserve">
-    <value>Village (100 (up to 200 inhabitants)</value>
+    <value>Dorf (100 bis 200 Einwohner)</value>
   </data>
   <data name="P0x1100" xml:space="preserve">
-    <value>Village (under 100 inhabitants)</value>
+    <value>Dorf (unter 100 Einwohner)</value>
   </data>
   <data name="P0x1200" xml:space="preserve">
-    <value>Marina with services</value>
+    <value>Jachthafen mit Service</value>
   </data>
   <data name="P0x1300" xml:space="preserve">
-    <value>Navy (unknown)</value>
+    <value>Marine (unbekannt)</value>
   </data>
   <data name="P0x1400" xml:space="preserve">
-    <value>Country name (capital)</value>
+    <value>Landesname (groß)</value>
   </data>
   <data name="P0x1500" xml:space="preserve">
-    <value>Country name (lowercase)</value>
+    <value>Landesname (klein)</value>
   </data>
   <data name="P0x1e00" xml:space="preserve">
-    <value>Province or region name</value>
+    <value>Name Provinz oder Region</value>
   </data>
   <data name="P0x1f00" xml:space="preserve">
-    <value>Alternative province or region name</value>
+    <value>Alternativer Name Provinz oder Region</value>
   </data>
   <data name="P0x2800" xml:space="preserve">
-    <value>Name (general)</value>
+    <value>Name (allgemein)</value>
   </data>
   <data name="P0x1600" xml:space="preserve">
-    <value>Sea mark, navigation aid</value>
+    <value>Seezeichen, Navigationshilfe</value>
   </data>
   <data name="P0x1601" xml:space="preserve">
-    <value>Fog horn</value>
+    <value>Nebelhorn</value>
   </data>
   <data name="P0x1602" xml:space="preserve">
-    <value>Radio beacon</value>
+    <value>Funkbake</value>
   </data>
   <data name="P0x1603" xml:space="preserve">
-    <value>Radar answering beacon</value>
+    <value>Radarantwortbake</value>
   </data>
   <data name="P0x1604" xml:space="preserve">
-    <value>Day mark, red triangle</value>
+    <value>Tagbake, rotes Dreieck</value>
   </data>
   <data name="P0x1605" xml:space="preserve">
-    <value>Day mark, green square</value>
+    <value>Tagbake, grünes Quadrat</value>
   </data>
   <data name="P0x1606" xml:space="preserve">
-    <value>Day mark, white diamond</value>
+    <value>Tagbake, weißer Diamant</value>
   </data>
   <data name="P0x1607" xml:space="preserve">
-    <value>Unlit sea mark, white</value>
+    <value>unbefeuertes Seezeichen, weiß</value>
   </data>
   <data name="P0x1608" xml:space="preserve">
-    <value>Unlit sea mark, red</value>
+    <value>unbefeuertes Seezeichen, rot</value>
   </data>
   <data name="P0x1609" xml:space="preserve">
-    <value>Unlit sea mark, green</value>
+    <value>unbefeuertes Seezeichen, grün</value>
   </data>
   <data name="P0x160a" xml:space="preserve">
-    <value>Unlit sea mark, black</value>
+    <value>unbefeuertes Seezeichen, schwarz</value>
   </data>
   <data name="P0x160b" xml:space="preserve">
-    <value>Unlit sea mark, yellow-amber</value>
+    <value>unbefeuertes Seezeichen, gelb-amber</value>
   </data>
   <data name="P0x160c" xml:space="preserve">
-    <value>Unlit sea mark, orange</value>
+    <value>unbefeuertes Seezeichen, orange</value>
   </data>
   <data name="P0x160d" xml:space="preserve">
-    <value>Unlit sea mark, multicolored</value>
+    <value>unbefeuertes Seezeichen mehrfarbig</value>
   </data>
   <data name="P0x160e" xml:space="preserve">
-    <value>Lighted sea mark, unknown</value>
+    <value>befeuertes Seezeichen, unbekannt</value>
   </data>
   <data name="P0x160f" xml:space="preserve">
-    <value>Lighted sea mark, white</value>
+    <value>befeuertes Seezeichen, weiß</value>
   </data>
   <data name="P0x1610" xml:space="preserve">
-    <value>Lighted sea mark, red</value>
+    <value>befeuertes Seezeichen, rot</value>
   </data>
   <data name="P0x1611" xml:space="preserve">
-    <value>Lighted sea mark, green</value>
+    <value>befeuertes Seezeichen, grün</value>
   </data>
   <data name="P0x1612" xml:space="preserve">
-    <value>Lighted sea mark, yellow-amber</value>
+    <value>befeuertes Seezeichen, gelb-amber</value>
   </data>
   <data name="P0x1613" xml:space="preserve">
-    <value>Lighted sea mark, orange</value>
+    <value>befeuertes Seezeichen, orange</value>
   </data>
   <data name="P0x1614" xml:space="preserve">
-    <value>Lighted sea mark, violet</value>
+    <value>befeuertes Seezeichen, violett</value>
   </data>
   <data name="P0x1615" xml:space="preserve">
-    <value>Lighted sea mark, Blue</value>
+    <value>befeuertes Seezeichen, blau</value>
   </data>
   <data name="P0x1616" xml:space="preserve">
-    <value>Lighted navigational aid, multicolored</value>
+    <value>befeuertes Seezeichen, mehrfarbig</value>
   </data>
   <data name="P0x1c00" xml:space="preserve">
-    <value>Unclassified obstruction</value>
+    <value>nicht klassifiziertes  Hindernis</value>
   </data>
   <data name="P0x1c01" xml:space="preserve">
-    <value>Visible wreck</value>
+    <value>sichtbares Wrack</value>
   </data>
   <data name="P0x1c02" xml:space="preserve">
-    <value>Underwater wreck, hazardous to navigation</value>
+    <value>Unterwasserwrack, gefährlich für die Schifffahrt</value>
   </data>
   <data name="P0x1c03" xml:space="preserve">
-    <value>Underwater wreck</value>
+    <value>Unterwasserwrack</value>
   </data>
   <data name="P0x1c04" xml:space="preserve">
-    <value>Wreck surveyed with tow boat</value>
+    <value>Wrack, mit Schleppgerät vermessen</value>
   </data>
   <data name="P0x1c05" xml:space="preserve">
-    <value>Obstacle visible at high tide</value>
+    <value>Hindernis, sichtbar bei Hochwasser</value>
   </data>
   <data name="P0x1c06" xml:space="preserve">
-    <value>Obstacle at chart datum</value>
+    <value>Hindernis, in Höhe des Kartennulls</value>
   </data>
   <data name="P0x1c07" xml:space="preserve">
-    <value>Obstacle underwater</value>
+    <value>Hindernis, unter Wasser</value>
   </data>
   <data name="P0x1c08" xml:space="preserve">
-    <value>Obstacle secured</value>
+    <value>Hindernis, abgesichert</value>
   </data>
   <data name="P0x1c09" xml:space="preserve">
-    <value>Rock at chart datum</value>
+    <value>Fels, in Höhe des Kartennulls</value>
   </data>
   <data name="P0x1c0a" xml:space="preserve">
-    <value>Rock covered at low tide</value>
+    <value>Fels, bei Niedrigwasser bedeckt</value>
   </data>
   <data name="P0x1c0b" xml:space="preserve">
-    <value>Depth sounding, sounding</value>
+    <value>Tiefenmessung, loten </value>
   </data>
   <data name="P0x1d00" xml:space="preserve">
-    <value>Tide table</value>
+    <value>Tiede-Tafel</value>
   </data>
   <data name="P0x2000" xml:space="preserve">
-    <value>Highway rest area</value>
+    <value>Autobahnparkplatz</value>
   </data>
   <data name="P0x2100" xml:space="preserve">
-    <value>Highway rest area with building</value>
+    <value>Autobahnparkplatz mit Gebäude</value>
   </data>
   <data name="P0x2110" xml:space="preserve">
-    <value>Highway rest area with building</value>
+    <value>Autobahnparkplatz mit Gebäude</value>
   </data>
   <data name="P0x210F" xml:space="preserve">
-    <value>Highway rest area (attended)</value>
+    <value>Autobahnparkplatz (bewitschaftet)</value>
   </data>
   <data name="P0x2200" xml:space="preserve">
-    <value>Highway rest area with restrooms</value>
+    <value>Autobahnparkplatz mit Toilette</value>
   </data>
   <data name="P0x2300" xml:space="preserve">
-    <value>Highway rest area with shop</value>
+    <value>Autobahnparkplatz mit Geschäft</value>
   </data>
   <data name="P0x2400" xml:space="preserve">
-    <value>Highway rest area with weigh station</value>
+    <value>Autobahnparkplatz mit Wiegestation</value>
   </data>
   <data name="P0x2500" xml:space="preserve">
-    <value>Highway rest area with toll booth</value>
+    <value>Autobahnparkplatz mit Mautstelle</value>
   </data>
   <data name="P0x2600" xml:space="preserve">
-    <value>Highway rest area with information</value>
+    <value>Autobahnparkplatz mit Information</value>
   </data>
   <data name="P0x2700" xml:space="preserve">
-    <value>Highway rest area</value>
+    <value>Autobahnparkplatz</value>
   </data>
   <data name="P0x2900" xml:space="preserve">
-    <value>Services</value>
+    <value>Service</value>
   </data>
   <data name="P0x2a00" xml:space="preserve">
     <value>Restaurant</value>
   </data>
   <data name="P0x2a01" xml:space="preserve">
-    <value>American restaurant</value>
+    <value>Restaurant (amerikanisch)</value>
   </data>
   <data name="P0x2a02" xml:space="preserve">
-    <value>Asian restaurant</value>
+    <value>Restaurant (asiatisch)</value>
   </data>
   <data name="P0x2a03" xml:space="preserve">
-    <value>Barbecue restaurant</value>
+    <value>Restaurant (barbecue)</value>
   </data>
   <data name="P0x2a04" xml:space="preserve">
-    <value>Chinese restaurant</value>
+    <value>Restaurant (chinesisch)</value>
   </data>
   <data name="P0x2a05" xml:space="preserve">
-    <value>Indian restaurant</value>
+    <value>Restaurant (indisch)</value>
   </data>
   <data name="P0x2a06" xml:space="preserve">
-    <value>International restaurant</value>
+    <value>Restaurant (international)</value>
   </data>
   <data name="P0x2a07" xml:space="preserve">
-    <value>Fast food</value>
+    <value>Fastfood</value>
   </data>
   <data name="P0x2a08" xml:space="preserve">
-    <value>Italian restaurant</value>
+    <value>Restaurant (italienisch)</value>
   </data>
   <data name="P0x2a09" xml:space="preserve">
-    <value>Restaurant (Mexican)</value>
+    <value>Restaurant (mexicanisch)</value>
   </data>
   <data name="P0x2a0a" xml:space="preserve">
     <value>Pizzeria</value>
   </data>
   <data name="P0x2a0b" xml:space="preserve">
-    <value>Seafood Restaurant</value>
+    <value>Fischrestaurant</value>
   </data>
   <data name="P0x2a0c" xml:space="preserve">
-    <value>Steakhouse</value>
+    <value>Steakhaus</value>
   </data>
   <data name="P0x2a0d" xml:space="preserve">
-    <value>Beagles and Donuts</value>
+    <value>Beagel und Donats</value>
   </data>
   <data name="P0x2a0e" xml:space="preserve">
     <value>Cafe</value>
   </data>
   <data name="P0x2a0f" xml:space="preserve">
-    <value>French Restaurant</value>
+    <value>Restaurant (französisch)</value>
   </data>
   <data name="P0x2a10" xml:space="preserve">
-    <value>German Restaurant</value>
+    <value>Restaurant (deutsch)</value>
   </data>
   <data name="P0x2a11" xml:space="preserve">
-    <value>British Restaurant</value>
+    <value>Restaurant (britisch)</value>
   </data>
   <data name="P0x2a12" xml:space="preserve">
-    <value>Specialty Restaurant</value>
+    <value>Spezialitätenrestaurant</value>
   </data>
   <data name="P0x2b00" xml:space="preserve">
-    <value>Accommodation</value>
+    <value>Unterkunft</value>
   </data>
   <data name="P0x2b01" xml:space="preserve">
-    <value>Hotel or Motel</value>
+    <value>Hotel oder Motel</value>
   </data>
   <data name="P0x2b02" xml:space="preserve">
-    <value>Bed and Breakfast</value>
+    <value>Bett und Frühstück</value>
   </data>
   <data name="P0x2b03" xml:space="preserve">
     <value>Camping</value>
@@ -403,25 +403,25 @@
     <value>Resort</value>
   </data>
   <data name="P0x2c00" xml:space="preserve">
-    <value>Attraction</value>
+    <value>Sehenswürdigkeit</value>
   </data>
   <data name="P0x2c01" xml:space="preserve">
-    <value>Theme Park</value>
+    <value>Erlebnispark</value>
   </data>
   <data name="P0x2c02" xml:space="preserve">
     <value>Museum</value>
   </data>
   <data name="P0x2c03" xml:space="preserve">
-    <value>Library</value>
+    <value>Bibliothek</value>
   </data>
   <data name="P0x2c04" xml:space="preserve">
-    <value>Viewpoint</value>
+    <value>Aussichtspunkt</value>
   </data>
   <data name="P0x2c05" xml:space="preserve">
-    <value>School</value>
+    <value>Schule</value>
   </data>
   <data name="P0x2c06" xml:space="preserve">
-    <value>Park/Garden</value>
+    <value>Park/Garten</value>
   </data>
   <data name="P0x2c07" xml:space="preserve">
     <value>Zoo/Aquarium</value>
@@ -430,196 +430,196 @@
     <value>Arena</value>
   </data>
   <data name="P0x2c09" xml:space="preserve">
-    <value>Hall</value>
+    <value>Halle</value>
   </data>
   <data name="P0x2c0a" xml:space="preserve">
-    <value>Winery</value>
+    <value>Weingut</value>
   </data>
   <data name="P0x2c0b" xml:space="preserve">
-    <value>Place of Worship</value>
+    <value>Kultstätte</value>
   </data>
   <data name="P0x2d00" xml:space="preserve">
-    <value>Entertainment</value>
+    <value>Unterhaltung</value>
   </data>
   <data name="P0x2d01" xml:space="preserve">
     <value>Theater</value>
   </data>
   <data name="P0x2d02" xml:space="preserve">
-    <value>Bar/Nightclub</value>
+    <value>Bar/Nachtclub</value>
   </data>
   <data name="P0x2d03" xml:space="preserve">
-    <value>Cinema</value>
+    <value>Kino</value>
   </data>
   <data name="P0x2d04" xml:space="preserve">
     <value>Casino</value>
   </data>
   <data name="P0x2d05" xml:space="preserve">
-    <value>Golf Course</value>
+    <value>Golfplatz</value>
   </data>
   <data name="P0x2d06" xml:space="preserve">
-    <value>Ski Resort</value>
+    <value>Ski-Resort</value>
   </data>
   <data name="P0x2d07" xml:space="preserve">
-    <value>Bowling Alley</value>
+    <value>Bowling-Bahn</value>
   </data>
   <data name="P0x2d08" xml:space="preserve">
-    <value>Ice Rink</value>
+    <value>Schlittschuhbahn</value>
   </data>
   <data name="P0x2d09" xml:space="preserve">
-    <value>Swimming Pool</value>
+    <value>Badeanstallt</value>
   </data>
   <data name="P0x2d0a" xml:space="preserve">
     <value>Fitness Studio</value>
   </data>
   <data name="P0x2d0b" xml:space="preserve">
-    <value>Airfield</value>
+    <value>Sportflugplatz</value>
   </data>
   <data name="P0x2e00" xml:space="preserve">
-    <value>Shopping</value>
+    <value>Einkauf</value>
   </data>
   <data name="P0x2e01" xml:space="preserve">
-    <value>Department Store</value>
+    <value>Kaufhaus</value>
   </data>
   <data name="P0x2e02" xml:space="preserve">
-    <value>Supermarket</value>
+    <value>Supermarkt</value>
   </data>
   <data name="P0x2e03" xml:space="preserve">
-    <value>Wholesaler</value>
+    <value>Großhändler</value>
   </data>
   <data name="P0x2e04" xml:space="preserve">
-    <value>Shopping Center</value>
+    <value>Einkaufszentrum</value>
   </data>
   <data name="P0x2e05" xml:space="preserve">
-    <value>Pharmacy</value>
+    <value>Apotheke</value>
   </data>
   <data name="P0x2e06" xml:space="preserve">
-    <value>Shop/Store (small)</value>
+    <value>Geschäft/Laden (klein)</value>
   </data>
   <data name="P0x2e07" xml:space="preserve">
-    <value>Textile store</value>
+    <value>Textilgeschäft</value>
   </data>
   <data name="P0x2e08" xml:space="preserve">
-    <value>Hardware store</value>
+    <value>Baumarkt</value>
   </data>
   <data name="P0x2e09" xml:space="preserve">
-    <value>Interior decorator</value>
+    <value>Raumausstatter</value>
   </data>
   <data name="P0x2e0a" xml:space="preserve">
-    <value>Specialty store</value>
+    <value>Spezialgeschäft</value>
   </data>
   <data name="P0x2e0b" xml:space="preserve">
-    <value>Computer store</value>
+    <value>Computergeschäft</value>
   </data>
   <data name="P0x2f00" xml:space="preserve">
     <value>Service</value>
   </data>
   <data name="P0x2f01" xml:space="preserve">
-    <value>Gas station</value>
+    <value>Tankstelle</value>
   </data>
   <data name="P0x2f02" xml:space="preserve">
-    <value>Car rental</value>
+    <value>Autovermietung</value>
   </data>
   <data name="P0x2f03" xml:space="preserve">
-    <value>Auto repair shop</value>
+    <value>Autowerkstadt</value>
   </data>
   <data name="P0x2f05" xml:space="preserve">
-    <value>Airmail</value>
+    <value>Luftpost</value>
   </data>
   <data name="P0x2f06" xml:space="preserve">
-    <value>Post office</value>
+    <value>Post</value>
   </data>
   <data name="P0x2f07" xml:space="preserve">
     <value>Bank</value>
   </data>
   <data name="P0x2f08" xml:space="preserve">
-    <value>Parcel service</value>
+    <value>Packetdienst</value>
   </data>
   <data name="P0x2f09" xml:space="preserve">
     <value>Marina</value>
   </data>
   <data name="P0x2f0a" xml:space="preserve">
-    <value>Towing service</value>
+    <value>Abschleppdienst</value>
   </data>
   <data name="P0x2f0b" xml:space="preserve">
-    <value>Parking garage/Parking lot</value>
+    <value>Parkhaus/Parkplatz</value>
   </data>
   <data name="P0x2f0c" xml:space="preserve">
-    <value>Tourist information</value>
+    <value>Touristen-Information</value>
   </data>
   <data name="P0x2f0d" xml:space="preserve">
-    <value>Automobile club</value>
+    <value>Automobilclub</value>
   </data>
   <data name="P0x2f0e" xml:space="preserve">
-    <value>Car wash</value>
+    <value>Autowäsche</value>
   </data>
   <data name="P0x2f0f" xml:space="preserve">
-    <value>Garmin dealer</value>
+    <value>Garmin Händler</value>
   </data>
   <data name="P0x2f10" xml:space="preserve">
-    <value>Personnel service provider</value>
+    <value>Personaldienstleister</value>
   </data>
   <data name="P0x2f11" xml:space="preserve">
-    <value>Business service provider</value>
+    <value>Business Service</value>
   </data>
   <data name="P0x2f12" xml:space="preserve">
-    <value>Communication service provider</value>
+    <value>Kommunikationsdienstleister</value>
   </data>
   <data name="P0x2f13" xml:space="preserve">
-    <value>Workshop</value>
+    <value>Werkstatt</value>
   </data>
   <data name="P0x2f14" xml:space="preserve">
-    <value>Social services center</value>
+    <value>Sozialstation</value>
   </data>
   <data name="P0x2f15" xml:space="preserve">
-    <value>Municipal utilities</value>
+    <value>Stadtwerke</value>
   </data>
   <data name="P0x2f16" xml:space="preserve">
-    <value>Truck stop</value>
+    <value>Autohof</value>
   </data>
   <data name="P0x2f17" xml:space="preserve">
-    <value>Freight forwarding company</value>
+    <value>Spedition</value>
   </data>
   <data name="P0x3000" xml:space="preserve">
-    <value>Emergency aid</value>
+    <value>Nothilfe</value>
   </data>
   <data name="P0x3001" xml:space="preserve">
-    <value>Police</value>
+    <value>Polizei</value>
   </data>
   <data name="P0x3002" xml:space="preserve">
-    <value>Hospital</value>
+    <value>Krankenhaus</value>
   </data>
   <data name="P0x3003" xml:space="preserve">
-    <value>Town hall</value>
+    <value>Rathaus</value>
   </data>
   <data name="P0x3004" xml:space="preserve">
-    <value>Courtyard</value>
+    <value>Gericht</value>
   </data>
   <data name="P0x3005" xml:space="preserve">
-    <value>Emergency dispatch center</value>
+    <value>Rettungsleitstelle</value>
   </data>
   <data name="P0x3006" xml:space="preserve">
-    <value>Border crossing</value>
+    <value>Grenzübergang</value>
   </data>
   <data name="P0x3007" xml:space="preserve">
-    <value>Authority</value>
+    <value>Behörde</value>
   </data>
   <data name="P0x3008" xml:space="preserve">
-    <value>Fire department</value>
+    <value>Feuerwehr</value>
   </data>
   <data name="P0x4000" xml:space="preserve">
     <value>Golf</value>
   </data>
   <data name="P0x4100" xml:space="preserve">
-    <value>Fishing spot</value>
+    <value>Angelstelle</value>
   </data>
   <data name="P0x4200" xml:space="preserve">
-    <value>Wreck</value>
+    <value>Wrack</value>
   </data>
   <data name="P0x4300" xml:space="preserve">
     <value>Marina</value>
   </data>
   <data name="P0x4400" xml:space="preserve">
-    <value>LPG (autogas)</value>
+    <value>Autogas</value>
   </data>
   <data name="P0x4500" xml:space="preserve">
     <value>Restaurant</value>
@@ -628,175 +628,175 @@
     <value>Bar</value>
   </data>
   <data name="P0x4700" xml:space="preserve">
-    <value>Boat loading dock</value>
+    <value>Bootsverladestelle</value>
   </data>
   <data name="P0x4800" xml:space="preserve">
-    <value>Campground</value>
+    <value>Campinkplatz</value>
   </data>
   <data name="P0x4900" xml:space="preserve">
     <value>Park</value>
   </data>
   <data name="P0x4a00" xml:space="preserve">
-    <value>Rest area</value>
+    <value>Rastplatz</value>
   </data>
   <data name="P0x4b00" xml:space="preserve">
-    <value>First aid station</value>
+    <value>Erste Hilfe Station</value>
   </data>
   <data name="P0x4c00" xml:space="preserve">
     <value>Information</value>
   </data>
   <data name="P0x4d00" xml:space="preserve">
-    <value>Parking lot</value>
+    <value>Parkplatz</value>
   </data>
   <data name="P0x4e00" xml:space="preserve">
-    <value>Toilet</value>
+    <value>Toilette</value>
   </data>
   <data name="P0x4f00" xml:space="preserve">
-    <value>Shower</value>
+    <value>Dusche</value>
   </data>
   <data name="P0x5000" xml:space="preserve">
-    <value>Drinking water</value>
+    <value>Trinkwasser</value>
   </data>
   <data name="P0x5100" xml:space="preserve">
-    <value>Telephone</value>
+    <value>Telefon</value>
   </data>
   <data name="P0x5200" xml:space="preserve">
-    <value>Viewpoint</value>
+    <value>Aussichtspunkt</value>
   </data>
   <data name="P0x5300" xml:space="preserve">
-    <value>Ski station</value>
+    <value>Skistation</value>
   </data>
   <data name="P0x5400" xml:space="preserve">
-    <value>Swimming area</value>
+    <value>Badestelle</value>
   </data>
   <data name="P0x5500" xml:space="preserve">
-    <value>Dam</value>
+    <value>Staudamm</value>
   </data>
   <data name="P0x5600" xml:space="preserve">
-    <value>Guarded area</value>
+    <value>Bewachter Bereich</value>
   </data>
   <data name="P0x5700" xml:space="preserve">
-    <value>Dangerous area</value>
+    <value>Gefährlicher Bereich</value>
   </data>
   <data name="P0x5800" xml:space="preserve">
-    <value>Restricted area</value>
+    <value>Sperrgebiet</value>
   </data>
   <data name="P0x5900" xml:space="preserve">
-    <value>Airfield</value>
+    <value>Flugplatz</value>
   </data>
   <data name="P0x5901" xml:space="preserve">
-    <value>Large Airfield</value>
+    <value>Großer Flugplatz</value>
   </data>
   <data name="P0x5902" xml:space="preserve">
-    <value>Medium-sized airfield</value>
+    <value>Mittelgroßer Flugplatz</value>
   </data>
   <data name="P0x5903" xml:space="preserve">
-    <value>Small airfield</value>
+    <value>Kleiner Flugplatz</value>
   </data>
   <data name="P0x5904" xml:space="preserve">
-    <value>Helicopter landing pad</value>
+    <value>Hubschrauberlandeplatz</value>
   </data>
   <data name="P0x5905" xml:space="preserve">
-    <value>Airfield</value>
+    <value>Flugplatz</value>
   </data>
   <data name="P0x5a00" xml:space="preserve">
-    <value>Signpost</value>
+    <value>Wegweiser</value>
   </data>
   <data name="P0x5b00" xml:space="preserve">
-    <value>Bell</value>
+    <value>Glocke</value>
   </data>
   <data name="P0x5c00" xml:space="preserve">
-    <value>Diving area</value>
+    <value>Taucherbereich</value>
   </data>
   <data name="P0x5d00" xml:space="preserve">
-    <value>Sea mark (green, rectangular)</value>
+    <value>Seezeichen (grün, rechteckig)</value>
   </data>
   <data name="P0x5e00" xml:space="preserve">
-    <value>Sea mark (red, triangular)</value>
+    <value>Seezeichen (rot, dreieckig)</value>
   </data>
   <data name="P0x6000" xml:space="preserve">
     <value>Horn</value>
   </data>
   <data name="P0x6100" xml:space="preserve">
-    <value>Building</value>
+    <value>Gebäude</value>
   </data>
   <data name="P0x6200" xml:space="preserve">
-    <value>Low point</value>
+    <value>Tiefenpunkt</value>
   </data>
   <data name="P0x6300" xml:space="preserve">
-    <value>High point</value>
+    <value>Höhenpunkt</value>
   </data>
   <data name="P0x6400" xml:space="preserve">
-    <value>Structure</value>
+    <value>Bauwerk</value>
   </data>
   <data name="P0x6401" xml:space="preserve">
-    <value>Bridge</value>
+    <value>Brücke</value>
   </data>
   <data name="P0x6402" xml:space="preserve">
-    <value>Building</value>
+    <value>Gebäude</value>
   </data>
   <data name="P0x6403" xml:space="preserve">
-    <value>Cemetery</value>
+    <value>Friedhof</value>
   </data>
   <data name="P0x6404" xml:space="preserve">
-    <value>Church</value>
+    <value>Gotteshaus</value>
   </data>
   <data name="P0x6405" xml:space="preserve">
-    <value>Town hall</value>
+    <value>Rathaus</value>
   </data>
   <data name="P0x6406" xml:space="preserve">
-    <value>Intersection</value>
+    <value>Kreuzung</value>
   </data>
   <data name="P0x6407" xml:space="preserve">
-    <value>Dam</value>
+    <value>Damm</value>
   </data>
   <data name="P0x6408" xml:space="preserve">
-    <value>Hospital</value>
+    <value>Krankenhaus</value>
   </data>
   <data name="P0x6409" xml:space="preserve">
-    <value>Dike</value>
+    <value>Deich</value>
   </data>
   <data name="P0x640a" xml:space="preserve">
-    <value>Signpost</value>
+    <value>Wegweiser</value>
   </data>
   <data name="P0x640b" xml:space="preserve">
-    <value>Military training area</value>
+    <value>Truppenübungsplatz</value>
   </data>
   <data name="P0x640c" xml:space="preserve">
-    <value>Mine</value>
+    <value>Bergwerk</value>
   </data>
   <data name="P0x640d" xml:space="preserve">
-    <value>Oil field</value>
+    <value>Oelfeld</value>
   </data>
   <data name="P0x640e" xml:space="preserve">
     <value>Park</value>
   </data>
   <data name="P0x640f" xml:space="preserve">
-    <value>Post office</value>
+    <value>Post</value>
   </data>
   <data name="P0x6410" xml:space="preserve">
-    <value>School</value>
+    <value>Schule</value>
   </data>
   <data name="P0x6411" xml:space="preserve">
-    <value>Tower</value>
+    <value>Turm</value>
   </data>
   <data name="P0x6412" xml:space="preserve">
-    <value>Starting point for hiking trail</value>
+    <value>Ausgangspunkt für Wanderweg</value>
   </data>
   <data name="P0x6413" xml:space="preserve">
     <value>Tunnel</value>
   </data>
   <data name="P0x6414" xml:space="preserve">
-    <value>Well</value>
+    <value>Brunnen</value>
   </data>
   <data name="P0x6415" xml:space="preserve">
-    <value>Abandoned settlement</value>
+    <value>Wüstung</value>
   </data>
   <data name="P0x6416" xml:space="preserve">
-    <value>Ruins</value>
+    <value>Ruine</value>
   </data>
   <data name="P0x6500" xml:space="preserve">
-    <value>Hydraulic engineering Facility</value>
+    <value>Wasserbauliche Einrichtung</value>
   </data>
   <data name="P0x6501" xml:space="preserve">
     <value>Arroyo</value>
@@ -805,394 +805,394 @@
     <value>Sandbank</value>
   </data>
   <data name="P0x6503" xml:space="preserve">
-    <value>Coast</value>
+    <value>Küste</value>
   </data>
   <data name="P0x6504" xml:space="preserve">
-    <value>River Bend</value>
+    <value>Flußbiegung</value>
   </data>
   <data name="P0x6505" xml:space="preserve">
-    <value>Channel</value>
+    <value>Kanal</value>
   </data>
   <data name="P0x6506" xml:space="preserve">
-    <value>Waterway</value>
+    <value>Wasserstraße</value>
   </data>
   <data name="P0x6507" xml:space="preserve">
-    <value>Bay</value>
+    <value>Bucht</value>
   </data>
   <data name="P0x6508" xml:space="preserve">
-    <value>Waterfall</value>
+    <value>Wasserfall</value>
   </data>
   <data name="P0x6509" xml:space="preserve">
-    <value>Geyser</value>
+    <value>Geysier</value>
   </data>
   <data name="P0x650a" xml:space="preserve">
-    <value>Glaciers</value>
+    <value>Gletscher</value>
   </data>
   <data name="P0x650b" xml:space="preserve">
-    <value>Harbor</value>
+    <value>Hafen</value>
   </data>
   <data name="P0x650c" xml:space="preserve">
-    <value>Island</value>
+    <value>Insel</value>
   </data>
   <data name="P0x650d" xml:space="preserve">
-    <value>Lake</value>
+    <value>See</value>
   </data>
   <data name="P0x650e" xml:space="preserve">
-    <value>Rapids</value>
+    <value>Stromschnelle</value>
   </data>
   <data name="P0x650f" xml:space="preserve">
-    <value>Reservoir</value>
+    <value>Wasserspeicher</value>
   </data>
   <data name="P0x6510" xml:space="preserve">
-    <value>Lake</value>
+    <value>See</value>
   </data>
   <data name="P0x6511" xml:space="preserve">
-    <value>Spring</value>
+    <value>Quelle</value>
   </data>
   <data name="P0x6512" xml:space="preserve">
-    <value>Stream</value>
+    <value>Strom</value>
   </data>
   <data name="P0x6513" xml:space="preserve">
     <value>Moor</value>
   </data>
   <data name="P0x6600" xml:space="preserve">
-    <value>Landscape Feature</value>
+    <value>Landschaftsteil</value>
   </data>
   <data name="P0x6601" xml:space="preserve">
-    <value>Cave</value>
+    <value>Höhle</value>
   </data>
   <data name="P0x6602" xml:space="preserve">
-    <value>Area</value>
+    <value>Gebiet</value>
   </data>
   <data name="P0x6603" xml:space="preserve">
-    <value>Basin</value>
+    <value>Becken</value>
   </data>
   <data name="P0x6604" xml:space="preserve">
-    <value>Beach</value>
+    <value>Strand</value>
   </data>
   <data name="P0x6605" xml:space="preserve">
     <value>Bank</value>
   </data>
   <data name="P0x6606" xml:space="preserve">
-    <value>Cape</value>
+    <value>Kap</value>
   </data>
   <data name="P0x6607" xml:space="preserve">
-    <value>Cliff</value>
+    <value>Klippe</value>
   </data>
   <data name="P0x6608" xml:space="preserve">
-    <value>Crater</value>
+    <value>Krater</value>
   </data>
   <data name="P0x6609" xml:space="preserve">
-    <value>Plain</value>
+    <value>Ebene</value>
   </data>
   <data name="P0x660a" xml:space="preserve">
-    <value>Forest</value>
+    <value>Wald</value>
   </data>
   <data name="P0x660b" xml:space="preserve">
-    <value>Gorge, Cleft, Gorge</value>
+    <value>Schlucht, Spalte, Klamm</value>
   </data>
   <data name="P0x660c" xml:space="preserve">
-    <value>Good</value>
+    <value>Gut</value>
   </data>
   <data name="P0x660d" xml:space="preserve">
-    <value>Island</value>
+    <value>Landenge</value>
   </data>
   <data name="P0x660e" xml:space="preserve">
     <value>Lava</value>
   </data>
   <data name="P0x660f" xml:space="preserve">
-    <value>Pillar</value>
+    <value>Säule</value>
   </data>
   <data name="P0x6610" xml:space="preserve">
-    <value>Plain</value>
+    <value>Ebene</value>
   </data>
   <data name="P0x6611" xml:space="preserve">
     <value>Range</value>
   </data>
   <data name="P0x6612" xml:space="preserve">
-    <value>Reserve</value>
+    <value>Reservat</value>
   </data>
   <data name="P0x6613" xml:space="preserve">
-    <value>Ridge</value>
+    <value>Grat</value>
   </data>
   <data name="P0x6614" xml:space="preserve">
-    <value>Rocks</value>
+    <value>Felsen</value>
   </data>
   <data name="P0x6615" xml:space="preserve">
-    <value>Slope, Wall</value>
+    <value>Hang, Wand</value>
   </data>
   <data name="P0x6616" xml:space="preserve">
-    <value>Peak</value>
+    <value>Gipfel</value>
   </data>
   <data name="P0x6617" xml:space="preserve">
-    <value>Valley</value>
+    <value>Tal</value>
   </data>
   <data name="P0x6618" xml:space="preserve">
-    <value>Forest</value>
+    <value>Wald</value>
   </data>
   <data name="L0x00" xml:space="preserve">
-    <value>Road</value>
+    <value>Straße</value>
   </data>
   <data name="L0x01" xml:space="preserve">
-    <value>Highway</value>
+    <value>Autobahn</value>
   </data>
   <data name="L0x02" xml:space="preserve">
-    <value>Expressway</value>
+    <value>Autostraße</value>
   </data>
   <data name="L0x03" xml:space="preserve">
-    <value>Main Road</value>
+    <value>Schnellstraße</value>
   </data>
   <data name="L0x04" xml:space="preserve">
-    <value>Side Road</value>
+    <value>Hauptstraße</value>
   </data>
   <data name="L0x05" xml:space="preserve">
-    <value>Local Road</value>
+    <value>Nebenstraße</value>
   </data>
   <data name="L0x06" xml:space="preserve">
-    <value>Private Road</value>
+    <value>Anliegerstraße</value>
   </data>
   <data name="L0x07" xml:space="preserve">
-    <value>Highway On-ramp (slow)</value>
+    <value>Privatstraße</value>
   </data>
   <data name="L0x08" xml:space="preserve">
-    <value>Highway On-ramp (fast)</value>
+    <value>Autobahnauffahrt (langsam)</value>
   </data>
   <data name="L0x09" xml:space="preserve">
-    <value>Unpaved Road</value>
+    <value>Autobahnauffahrt (schnell)</value>
   </data>
   <data name="L0x0a" xml:space="preserve">
-    <value>Motorway feeder road</value>
+    <value>unbefestigte Straße</value>
   </data>
   <data name="L0x0b" xml:space="preserve">
-    <value>Roundabout</value>
+    <value>Autobahnzubringerstraße</value>
   </data>
   <data name="L0x0c" xml:space="preserve">
-    <value>Railway track</value>
+    <value>Kreisverkehr</value>
   </data>
   <data name="L0x14" xml:space="preserve">
-    <value>Coastline</value>
+    <value>Gleis</value>
   </data>
   <data name="L0x15" xml:space="preserve">
-    <value>Hiking trail</value>
+    <value>Küstenlinie</value>
   </data>
   <data name="L0x16" xml:space="preserve">
-    <value>Stream</value>
+    <value>Wanderweg</value>
   </data>
   <data name="L0x18" xml:space="preserve">
-    <value>Time zone boundary</value>
+    <value>Bach</value>
   </data>
   <data name="L0x19" xml:space="preserve">
-    <value>Ferry</value>
+    <value>Zeitzonengrenze</value>
   </data>
   <data name="L0x1a" xml:space="preserve">
-    <value>Ferry</value>
+    <value>Fähre</value>
   </data>
   <data name="L0x1b" xml:space="preserve">
-    <value>Provincial border</value>
+    <value>Fähre</value>
   </data>
   <data name="L0x1c" xml:space="preserve">
-    <value>National border</value>
+    <value>Provinzegrenze</value>
   </data>
   <data name="L0x1d" xml:space="preserve">
-    <value>International border</value>
+    <value>Landesgrenze</value>
   </data>
   <data name="L0x1e" xml:space="preserve">
-    <value>River</value>
+    <value>Internationale Grenze</value>
   </data>
   <data name="L0x1f" xml:space="preserve">
-    <value>Contour line (thin)</value>
+    <value>Fluß</value>
   </data>
   <data name="L0x20" xml:space="preserve">
-    <value>Contour line (medium)</value>
+    <value>Höhenlinie (dünn)</value>
   </data>
   <data name="L0x21" xml:space="preserve">
-    <value>Contour line (thick)</value>
+    <value>Höhenlinie (mittel)</value>
   </data>
   <data name="L0x22" xml:space="preserve">
-    <value>Depth line (thin)</value>
+    <value>Höhenlinie (dick)</value>
   </data>
   <data name="L0x23" xml:space="preserve">
-    <value>Depth line (medium)</value>
+    <value>Tiefenlinie (dünn)</value>
   </data>
   <data name="L0x24" xml:space="preserve">
-    <value>Depth line (thick)</value>
+    <value>Tiefenlinie (mittel)</value>
   </data>
   <data name="L0x25" xml:space="preserve">
-    <value>Stream/Ditch</value>
+    <value>Tiefenlinie (dick)</value>
   </data>
   <data name="L0x26" xml:space="preserve">
-    <value>Runway</value>
+    <value>Bach/Graben</value>
   </data>
   <data name="L0x27" xml:space="preserve">
-    <value>Pipeline</value>
+    <value>Rollbahn</value>
   </data>
   <data name="L0x28" xml:space="preserve">
-    <value>Overhead power line</value>
+    <value>Pipeline</value>
   </data>
   <data name="L0x29" xml:space="preserve">
-    <value>Sea boundary</value>
+    <value>Freileitung</value>
   </data>
   <data name="L0x2a" xml:space="preserve">
-    <value>Hazard zone</value>
+    <value>Seegrenze</value>
   </data>
   <data name="L0x2b" xml:space="preserve">
-    <value>Built-up area (&gt;200,000 inhabitants)</value>
+    <value>Gefahrenzone</value>
   </data>
   <data name="G0x01" xml:space="preserve">
-    <value>Built-up area (&lt;200,000 inhabitants)</value>
+    <value>Bebautes Gebiet (&gt;200000 Einwohner)</value>
   </data>
   <data name="G0x02" xml:space="preserve">
-    <value>Garden shed/bungalow area</value>
+    <value>Bebautes Gebiet (&lt;200000 Einwohner)</value>
   </data>
   <data name="G0x03" xml:space="preserve">
-    <value>Military area</value>
+    <value>Gartenhaus-, Bungalow-  Gebiet</value>
   </data>
   <data name="G0x04" xml:space="preserve">
-    <value>Parking lot</value>
+    <value>Militärgelände</value>
   </data>
   <data name="G0x05" xml:space="preserve">
-    <value>Parking garage</value>
+    <value>Parkplatz</value>
   </data>
   <data name="G0x06" xml:space="preserve">
-    <value>Airport</value>
+    <value>Parkhaus</value>
   </data>
   <data name="G0x07" xml:space="preserve">
-    <value>Shopping center</value>
+    <value>Flugplatz</value>
   </data>
   <data name="G0x08" xml:space="preserve">
-    <value>Marina</value>
+    <value>Einkaufszentrum</value>
   </data>
   <data name="G0x09" xml:space="preserve">
-    <value>University, College</value>
+    <value>Marina</value>
   </data>
   <data name="G0x0a" xml:space="preserve">
-    <value>Hospital</value>
+    <value>Universität, Hochschule</value>
   </data>
   <data name="G0x0b" xml:space="preserve">
-    <value>Industrial park</value>
+    <value>Krankenhaus</value>
   </data>
   <data name="G0x0c" xml:space="preserve">
-    <value>Reserve</value>
+    <value>Gewerbegebiet</value>
   </data>
   <data name="G0x0d" xml:space="preserve">
-    <value>Runway</value>
+    <value>Reservat</value>
   </data>
   <data name="G0x0e" xml:space="preserve">
-    <value>Building</value>
+    <value>Rollbahn</value>
   </data>
   <data name="G0x13" xml:space="preserve">
-    <value>National park</value>
+    <value>Gebäude</value>
   </data>
   <data name="G0x14" xml:space="preserve">
-    <value>National park</value>
+    <value>Nationalpark</value>
   </data>
   <data name="G0x15" xml:space="preserve">
-    <value>National park</value>
+    <value>Nationalpark</value>
   </data>
   <data name="G0x16" xml:space="preserve">
-    <value>National park</value>
+    <value>Nationalpark</value>
   </data>
   <data name="G0x17" xml:space="preserve">
-    <value>City park</value>
+    <value>Stadtpark</value>
   </data>
   <data name="G0x18" xml:space="preserve">
-    <value>Golf course</value>
+    <value>Golfplatz</value>
   </data>
   <data name="G0x19" xml:space="preserve">
-    <value>Sports complex</value>
+    <value>Sportkomplex</value>
   </data>
   <data name="G0x1a" xml:space="preserve">
-    <value>Cemetery</value>
+    <value>Friedhof</value>
   </data>
   <data name="G0x1e" xml:space="preserve">
-    <value>Nature park</value>
+    <value>Naturpark</value>
   </data>
   <data name="G0x1f" xml:space="preserve">
-    <value>Nature park</value>
+    <value>Naturpark</value>
   </data>
   <data name="G0x20" xml:space="preserve">
-    <value>Nature park</value>
+    <value>Naturpark</value>
   </data>
   <data name="G0x28" xml:space="preserve">
-    <value>Sea/Ocean</value>
+    <value>Meer/Ozean</value>
   </data>
   <data name="G0x29" xml:space="preserve">
-    <value>Blue/unknown</value>
+    <value>Blau/ unbekannt</value>
   </data>
   <data name="G0x32" xml:space="preserve">
-    <value>Sea</value>
+    <value>Meer</value>
   </data>
   <data name="G0x3b" xml:space="preserve">
-    <value>Blue/unknown</value>
+    <value>Blau/ unbekannt</value>
   </data>
   <data name="G0x3c" xml:space="preserve">
-    <value>Large lake (250-600 sq km)</value>
+    <value>großer See (250-600 qkm)</value>
   </data>
   <data name="G0x3d" xml:space="preserve">
-    <value>Large lake (77-250 sq km)</value>
+    <value>großer See (77-250 qkm)</value>
   </data>
   <data name="G0x3e" xml:space="preserve">
-    <value>Medium lake (25-77 sq km)</value>
+    <value>mittlerer See (25-77 qkm)</value>
   </data>
   <data name="G0x3f" xml:space="preserve">
-    <value>Medium lake (11-25 sq km)</value>
+    <value>mittlerer See (11-25 qkm)</value>
   </data>
   <data name="G0x40" xml:space="preserve">
-    <value>Small lake (0.25-11 sq km)</value>
+    <value>kleiner See (0.25-11 qkm)</value>
   </data>
   <data name="G0x41" xml:space="preserve">
-    <value>Small lake (&lt;0.25 sq km)</value>
+    <value>kleiner See (&lt;0.25 qkm)</value>
   </data>
   <data name="G0x42" xml:space="preserve">
-    <value>Large lake (&gt;3,300 sq km)</value>
+    <value>großer See (&gt;3.300 qkm)</value>
   </data>
   <data name="G0x43" xml:space="preserve">
-    <value>Large lake (1,100-3,300 sq km)</value>
+    <value>großer See (1.100-3.300 qkm)</value>
   </data>
   <data name="G0x44" xml:space="preserve">
-    <value>Large lake (600-1,100 sq km)</value>
+    <value>großer See (600-1.100 qkm)</value>
   </data>
   <data name="G0x45" xml:space="preserve">
-    <value>Blue/unknown</value>
+    <value>Blau/ unbekannt</value>
   </data>
   <data name="G0x46" xml:space="preserve">
-    <value>Stream (&gt;1 km)</value>
+    <value>Strom  (&gt;1 km)</value>
   </data>
   <data name="G0x47" xml:space="preserve">
-    <value>Large river (200 m-1 km)</value>
+    <value>Großer Fluß (200 m-1 km)</value>
   </data>
   <data name="G0x48" xml:space="preserve">
-    <value>Medium river (40-200 m)</value>
+    <value>mittlerer Fluss (40-200 m)</value>
   </data>
   <data name="G0x49" xml:space="preserve">
-    <value>Small (&lt;40 m)</value>
+    <value>kleiner (&lt;40 m)</value>
   </data>
   <data name="G0x4a" xml:space="preserve">
-    <value>Background</value>
+    <value>Hintergrund</value>
   </data>
   <data name="G0x4b" xml:space="preserve">
-    <value>Definition area</value>
+    <value>Definitionbereich</value>
   </data>
   <data name="G0x4c" xml:space="preserve">
-    <value>Water surface</value>
+    <value>Wasserfläche</value>
   </data>
   <data name="G0x4d" xml:space="preserve">
-    <value>Glaciers</value>
+    <value>Gletscher</value>
   </data>
   <data name="G0x4e" xml:space="preserve">
-    <value>Plantation, plantation, nursery</value>
+    <value>Pflanzung, Plantage, Gärtnerei</value>
   </data>
   <data name="G0x4f" xml:space="preserve">
-    <value>Shrubland</value>
+    <value>Gestrüpp</value>
   </data>
   <data name="G0x50" xml:space="preserve">
-    <value>Forest</value>
+    <value>Wald</value>
   </data>
   <data name="G0x51" xml:space="preserve">
-    <value>Moor, pasture (wet)</value>
+    <value>Moor, Weide (feucht)</value>
   </data>
   <data name="G0x52" xml:space="preserve">
-    <value>Tundra, wasteland</value>
+    <value>Tundra, Ödland</value>
   </data>
   <data name="G0x53" xml:space="preserve">
     <value>Sandbank</value>
